@@ -8,15 +8,6 @@
     "discord": null,
     "twitch": null
   },
-  "redfoxjr": {
-    "display_name": "RedFoxJr",
-    "display_picture": "pfp_redfoxjr",
-    "display_desc": "Team CEO And Discord Manager",
-    "youtube": "UCYToMQUqwjomzIcXFS3ULWg",
-    "instagram": null,
-    "discord": "yVTetJMAKA",
-    "twitch": "redfoxjr_"
-  },
   "kioov": {
     "display_name": "Kioov",
     "display_picture": "pfp_kioov",
@@ -41,15 +32,6 @@
     "display_desc": "Team Dev? Idk",
     "youtube": "UCzbRnSIqLGTTcjZiDOPN_Vw",
     "instagram": "bytezwastaken",
-    "discord": null,
-    "twitch": null,
-  },  
-  "DaumerX": {
-    "display_name": "DaumerX",
-    "display_picture": "pfp_daumerx",
-    "display_desc": "Discord Manager",
-    "youtube": "UCLDFABEvtMvWR2Ih1Ju7isA",
-    "instagram": null,
     "discord": null,
     "twitch": null,
   }
