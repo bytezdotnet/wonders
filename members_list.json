@@ -133,5 +133,23 @@
     "instagram": null,
     "discord": null,
     "twitch": null
+  },
+  "daumerx": {
+    "display_name": "DaumerX",
+    "display_picture": "pfp_daumerx",
+    "display_desc": "Discord Manager",
+    "youtube": "UCLDFABEvtMvWR2Ih1Ju7isA",
+    "instagram": null,
+    "discord": null,
+    "twitch": null,
+  },
+  "redfoxjr": {
+    "display_name": "RedFoxJr",
+    "display_picture": "pfp_redfoxjr",
+    "display_desc": "Team CEO And Discord Manager",
+    "youtube": "UCYToMQUqwjomzIcXFS3ULWg",
+    "instagram": null,
+    "discord": "yVTetJMAKA",
+    "twitch": "redfoxjr_"
   }
 }
