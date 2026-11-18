@@ -8,28 +8,28 @@
     "discord": null,
     "twitch": null
   },
-  "kioov": {
-    "display_name": "Kioov",
-    "display_picture": "pfp_kioov",
-    "display_desc": "Content and Development Manager",
-    "youtube": "UCW2gHhsaqBIJDn41UDOY7tA",
-    "instagram": null,
-    "discord": null,
-    "twitch": null
-  },
   "aizon": {
     "display_name": "Aizon",
     "display_picture": "pfp_aizon",
-    "display_desc": "Wonders Academy Manager",
+    "display_desc": "Eclipse Manager",
     "youtube": "UCyqrMttZVaTTZoECktM7B-w",
     "instagram": null,
     "discord": null,
     "twitch": null
   },
+  "drifx": {
+    "display_name": "Drifx",
+    "display_picture": "pfp_drifx",
+    "display_desc": "A legend, revived the team",
+    "youtube": "UCpR4hhtTCdJQV2ID9jWmbUg",
+    "instagram": "q.zt5",
+    "discord": "3umRpXDgDd",
+    "twitch": null
+  },
   "bytez": {
     "display_name": "Bytez",
     "display_picture": "pfp_weshbytez",
-    "display_desc": "Team Dev? Idk",
+    "display_desc": "The one behind the curtains",
     "youtube": "UCzbRnSIqLGTTcjZiDOPN_Vw",
     "instagram": "bytezwastaken",
     "discord": null,
