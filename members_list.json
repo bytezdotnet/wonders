@@ -1,40 +1,4 @@
 {
-  "xspleef": {
-    "display_name": "xSpLeeF",
-    "display_picture": "pfp_xspleef",
-    "display_desc": "Youtuber",
-    "youtube": "UC7SySVcqlyFeWiRjeR8aSWg",
-    "instagram": "xspleef_",
-    "discord": "rpHFPws2PP",
-    "twitch": null
-  },
-  "plazma": {
-    "display_name": "Plazma",
-    "display_picture": "pfp_plazma",
-    "display_desc": "Youtuber",
-    "youtube": "UC7FzdZ79VDKIqP-6_Occ5LA",
-    "instagram": null,
-    "discord": "7sKvuAED3c",
-    "twitch": null
-  },
-  "sarflear": {
-    "display_name": "SarFlear",
-    "display_picture": "pfp_sarflear",
-    "display_desc": "Youtuber",
-    "youtube": "UC7SySVcqlyFeWiRjeR8aSWg",
-    "instagram": "xsarflear",
-    "discord": null,
-    "twitch": null
-  },
-  "algazal": {
-    "display_name": "Algazal",
-    "display_picture": "pfp_algazal",
-    "display_desc": "Youtuber",
-    "youtube": "UC6E8z7tAjmY3ccng543KVoA",
-    "instagram": null,
-    "discord": "qEanhRGhZp",
-    "twitch": null
-  },
   "adriefy": {
     "display_name": "Adriefy",
     "display_picture": "pfp_adriefy",
@@ -44,69 +8,64 @@
     "discord": "dJveHcuuGj",
     "twitch": null
   },
-  "drifx": {
-    "display_name": "Drifx",
-    "display_picture": "pfp_drifx",
+  "aizer": {
+    "display_name": "Aizer",
+    "display_picture": "pfp_aizer",
     "display_desc": "Youtuber",
-    "youtube": "UCpR4hhtTCdJQV2ID9jWmbUg",
-    "instagram": "q.zt5",
-    "discord": "3umRpXDgDd",
+    "youtube": "UCojw5Q0sL7uVzpoYD8uicCA",
+    "instagram": "aizermc",
+    "discord": "sGePMvnCc",
+    "tiktok": "aizermc",
     "twitch": null
   },
-  "iilizer": {
-    "display_name": "iiLIZER",
-    "display_picture": "pfp_iilizer",
+  "daumerx": {
+    "display_name": "DaumerX",
+    "display_picture": "pfp_daumerx",
     "display_desc": "Youtuber",
-    "youtube": "UCPGa5-qbyzNXVCWtqOgAzhw",
-    "instagram": "lizer_editor",
+    "youtube": "UCLDFABEvtMvWR2Ih1Ju7isA",
+    "instagram": null,
     "discord": null,
+    "twitch": null,
+  },
+  "kaekah": {
+    "display_name": "Kaekah",
+    "display_picture": "pfp_kaekah",
+    "display_desc": "Youtuber",
+    "youtube": "UC7V-3xGB1qqDcpJXxQAnwgA",
+    "instagram": null,
+    "discord": "MNyqFHxEVc",
+    "tiktok": null,
     "twitch": null
   },
-  "lifyi": {
-    "display_name": "LIFYI",
-    "display_picture": "pfp_lifyi",
+  "kayo": {
+    "display_name": "Kayo",
+    "display_picture": "pfp_kayo",
     "display_desc": "Youtuber",
-    "youtube": "UCOXK9bpIbqpxgpErX4aWNgA",
-    "instagram": "lifyi0",
+    "youtube": "UCkpN9T8vpF58SpnCUI6X0pQ",
+    "instagram": null,
     "discord": null,
-    "twitch": null
-  },
-  "magma": {
-    "display_name": "Magma",
-    "display_picture": "pfp_magma",
-    "display_desc": "Youtuber",
-    "youtube": "UCHO1RVQZYNfzmQue6agIx7w",
-    "instagram": "magma_yt1",
-    "discord": "teZucyEBJg",
-    "twitch": null
-  },
-  "midou": {
-    "display_name": "Midou",
-    "display_picture": "pfp_iimidou",
-    "display_desc": "Youtuber",
-    "youtube": "UCYOONVh6yh5OvP5gby34Bew",
-    "instagram": "imidou__",
-    "discord": "pHHss64Hm",
+    "tiktok": null,
     "twitch": null
   },
   "reflex": {
     "display_name": "Reflex",
-    "display_picture": "pfp_Reflex",
+    "display_picture": "pfp_reflex",
     "display_desc": "Youtuber",
     "youtube": "UCND88rpH_pFp8pQD2M7rKZQ",
-    "instagram": "reflex_1k_",
-    "discord": "wHB8RSDYZd",
+    "instagram": null,
+    "discord": null,
+    "tiktok": null,
     "twitch": null
   },
-  "sky": {
-    "display_name": "Sky",
-    "display_picture": "pfp_sky",
+  "kioov": {
+    "display_name": "Kioov",
+    "display_picture": "pfp_kioov",
     "display_desc": "Youtuber",
-    "youtube": "UCGPVx0XlauHLWXBu4iSOG7A",
-    "instagram": "as1sky",
-    "discord": "HYsn6ufCGy",
+    "youtube": "UCW2gHhsaqBIJDn41UDOY7tA",
+    "instagram": null,
+    "discord": null,
     "twitch": null
-  },
+  },  
   "saleem": {
     "display_name": "Saleem",
     "display_picture": "pfp_saleem",
@@ -116,40 +75,24 @@
     "discord": "nhaACWhnES",
     "twitch": null
   },
-  "ziko": {
-    "display_name": "Ziko",
-    "display_picture": "pfp_ziko",
+  "visxs": {
+    "display_name": "Visxs",
+    "display_picture": "pfp_visxs",
     "display_desc": "Youtuber",
-    "youtube": "UCvdPhz01RaoVY8QJ-nR2tXg",
-    "instagram": "ziko3mk_",
-    "discord": "nhaACWhnES",
-    "twitch": null
-  },
-  "xexpelled": {
-    "display_name": "xEXPELLED",
-    "display_picture": "pfp_xexpelled",
-    "display_desc": "Youtuber",
-    "youtube": "UCD-6GZd_ITiV7B0M670ty9Q",
+    "youtube": "UCnYcdZOk1X-2kRCjvXaxFFA",
     "instagram": null,
     "discord": null,
+    "tiktok": null,
     "twitch": null
   },
-  "daumerx": {
-    "display_name": "DaumerX",
-    "display_picture": "pfp_daumerx",
-    "display_desc": "Discord Manager",
-    "youtube": "UCLDFABEvtMvWR2Ih1Ju7isA",
-    "instagram": null,
-    "discord": null,
-    "twitch": null,
-  },
-  "redfoxjr": {
-    "display_name": "RedFoxJr",
-    "display_picture": "pfp_redfoxjr",
-    "display_desc": "Team CEO And Discord Manager",
-    "youtube": "UCYToMQUqwjomzIcXFS3ULWg",
-    "instagram": null,
-    "discord": "yVTetJMAKA",
-    "twitch": "redfoxjr_"
+  "wemzies": {
+    "display_name": "Wemzies",
+    "display_picture": "pfp_wemzies",
+    "display_desc": "Youtuber",
+    "youtube": "UCvepit0deyGd0-RgORUP4vw",
+    "instagram": "wemzies",
+    "discord": "szxnAvdhBf",
+    "tiktok": null,
+    "twitch": null
   }
 }
